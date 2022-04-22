@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DFMlab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, We're DFMlab
+- 👀 We're interested in innovation
+- 🌱 We're currently learning to make the world a better place
+- 💞️ We're looking to collaborate with you on your next big idea
+- 📫 You can to reach us via [https://dfmlab.com](our webiste)
 
 <!---
 DFMlab/DFMlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
